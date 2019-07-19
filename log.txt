@@ -1,0 +1,185 @@
+commit 79d507b7e7b15d424452aa2d6cef7c85d612ed69
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Fri Jul 19 10:47:16 2019 -0500
+
+    npm
+
+commit 62fc37b289637d1d654a67d3fc8ebb4cf8ab0bc2
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Fri Jul 19 10:14:49 2019 -0500
+
+    Plugin de Ads - Parte 2
+
+commit 3e158360066d98ae1cbafe61998fbaf63f433229
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Fri Jul 19 09:49:25 2019 -0500
+
+    Plugin de Ads - Parte 1
+
+commit fc4305a4030719461abd455a8e66e325412c3246
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Fri Jul 19 09:21:53 2019 -0500
+
+    Decorator
+
+commit efffff0115632c1ecece4287de56e8d23d155aaa
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 18:42:28 2019 -0500
+
+    Observer
+
+commit 8b82b83906c518b6b3fba1d0f4210ade5b9582e0
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 13:44:40 2019 -0500
+
+    Implementación Singleton
+
+commit 32ae6d829aec1e08e2aa3218b71a4a4a956f22c7
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 13:13:07 2019 -0500
+
+    Implementación Singleton - Start
+
+commit dd721ec32c0962a85fcd0f33461124cd6173dce6
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 12:07:20 2019 -0500
+
+    Convertir el proyecto a TypeScript
+
+commit 675aa971f4682f19bbf13eb77992e936d40a89f1
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 11:42:29 2019 -0500
+
+    Clases
+
+commit ef38cfd4ff5bda8667293aa0736c9938f1dfad90
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 11:15:26 2019 -0500
+
+    Interfaces
+
+commit 5a0296025b927f6807547a2a14563429dedaee10
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 10:57:51 2019 -0500
+
+    Funciones
+
+commit 70ccfccbae0d2ffce7f74a5593aebedce77e0839
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 10:35:28 2019 -0500
+
+    Tipos básicos
+
+commit 8a05f3ef2d261a13c56d9c3698e3332da7e87139
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 10:06:38 2019 -0500
+
+    Intro de TypeScript
+
+commit 96eea523bd4650f993778923284b76a51c0d3154
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Thu Jul 18 09:43:01 2019 -0500
+
+    Service Workers
+
+commit 17a42bc0a3cb3073ca17b60f8a4063e0779512b2
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 12:09:55 2019 -0500
+
+    VisibilityChange
+
+commit eedc1eab7459cff695bfad2c3b101e7d941a02ac
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 11:50:23 2019 -0500
+
+    IntersectionObserver
+
+commit 37134052b9141126059a42a15aa3a81cc7e9bb12
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 11:27:32 2019 -0500
+
+    Abort Fetch
+
+commit f5d34c49d9bf98a26749f351b4ef111785b131e9
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 11:06:00 2019 -0500
+
+    Generators
+
+commit 3daa651ee7bf0a77ea18b0f88740eb40d4b84d78
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 10:31:45 2019 -0500
+
+    Proxy
+
+commit df1f1676151a0cd53fb32f19c98454f7793f6a21
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 10:11:39 2019 -0500
+
+    Getters y setters
+
+commit ec38a7b1c7f980b8448fa1a13e5f341ec8516a5f
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Wed Jul 17 09:55:08 2019 -0500
+
+    Promesas
+
+commit 3df114c737f19958a36159284a3989f807016021
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Tue Jul 16 12:16:10 2019 -0500
+
+    Herencia Prototipal
+
+commit d2c0eca8b9da05d692d348b888dfcbfc991d2e36
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Tue Jul 16 11:52:29 2019 -0500
+
+    Prototype
+
+commit 8bde44c42768c1528ae9a059845d77e1e7e832ae
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Tue Jul 16 11:03:00 2019 -0500
+
+    call, apply, bind
+
+commit a6a9aad138f9637f43d94b33f07eb07b5cf2b220
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Tue Jul 16 10:30:47 2019 -0500
+
+    this
+
+commit 28a1c51ca6c0db212da7789068737660049b0999
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 14:17:05 2019 -0500
+
+    El primer plugin
+
+commit 730f90346f0d30559211c92614bbb4a218df9d99
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 13:59:49 2019 -0500
+
+    Closures
+
+commit 7c6d99901685b485ba94840a05f9dbdc53c83170
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 13:43:24 2019 -0500
+
+    Scope
+
+commit b1362ca2a4bb42b36c82788465f17031b67a2b34
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 12:47:27 2019 -0500
+
+    Cómo llega un script al navegador
+
+commit ff1badc05e00be6bb018bf3e5705ba672e20821f
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 12:14:20 2019 -0500
+
+    Inicio del proyecto
+
+commit 23b0a77dde5db7f43ad7d373f030693999535a7a
+Author: Richard B. Kaufman-López <richardbkaufman@gmail.com>
+Date:   Mon Jul 15 09:35:13 2019 -0500
+
+    Initial commit
