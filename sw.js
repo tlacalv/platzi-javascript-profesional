@@ -18,20 +18,20 @@ async function precache() {
     //crea una instancia de cache
     const cache = await caches.open(VERSION)
     return cache.addAll([
-        '/',
-        '/index.html',
-        '/assets/index.js',
-        '/assets/plugins/AutoPlay.js',
-        '/assets/plugins/AutoPause.js',
-        '/assets/index.css',
-        '/assets/BigBuckBunny.mp4',
+        // '/',
+        // '/index.html',
+        // '/assets/index.js',
+        // '/assets/plugins/AutoPlay.js',
+        // '/assets/plugins/AutoPause.js',
+        // '/assets/index.css',
+        // '/assets/BigBuckBunny.mp4',
     ])
 }
 
 async function cachedResponse (request){
     const cache = await caches.open(VERSION)
     const response = await cache.match(request)
-    return response || fetch(request)
+    return response || fetch(request);
 }
 async function updateCache (request){
     const cache = await caches.open(VERSION)
