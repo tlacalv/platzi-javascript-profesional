@@ -2,12 +2,20 @@
 class MediaPlayer {
   media: HTMLMediaElement;
   plugins: Array<any>;
+  container: HTMLElement;
   constructor(config) {
     this.media = config.el;
     //recibe plugins en array
     this.plugins = config.plugins || [];
     //inicializa plug ins
+    this.initPlayer();
     this.initPlugins();
+  }
+  initPlayer(){
+    this.container = document.createElement('div')
+    this.container.style.position='relative';
+    this.media.parentNode.insertBefore(this.container, this.media);
+    this.container.appendChild(this.media);
   }
   private initPlugins() {
     //para cada instancia en el array de plugins corre el metodo run.
